@@ -45,21 +45,6 @@ const artem = {
 ```
 
 <h3>Where to find me</h3>
-
-<a href="https://github.com/kuzzzminskii" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-</a>
-<a href="https://t.me/kuzzzminskii" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
-</a>
-<a href="mailto:kuzminskii97@mail.ru" target="_blank">
-  <img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/>
-</a>
-
-
-
-
-<!---
-kuzzzminskii/kuzzzminskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+<a href="https://github.com/kuzzzminskii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="https://t.me/kuzzzminskii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="mailto:kuzminskii97@mail.ru" target="_blank"><img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a>
+</p>
