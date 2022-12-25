@@ -12,6 +12,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/> 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
   </br>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
@@ -27,20 +28,20 @@
   
   ```javascript
 const artem = {
-    age         : 25,
-    country     : "Russia",
-    code        : ["Node.js", "Javascript", "React", "Vue.js"],
-    about       : ["developer", "lead coder"],
-    technologies: {
-        backEnd : ["Node.js", "Express"],
-        frontEnd: ["JavaScript", "React", "Vue.js"],
-        database: ["MySQL", "PostgreSQL", "SQlite", "Redis"],
-        misc    : ["WebSocket", "UIWebView"]
+    age          : 25,
+    country      : "Russia",
+    code         : ["Node.js", "Javascript", "React", "Vue.js"],
+    about        : ["developer", "lead coder"],
+    technologies : {
+        backEnd  : ["Node.js", "Express"],
+        frontEnd : ["JavaScript", "React", "Vue.js"],
+        databases: ["MySQL", "PostgreSQL", "SQlite", "Redis"],
+        misc     : ["WebSocket", "UIWebView"]
     },
-    os          : ["MacOS", "Linux"],
-    editors     : ["WebStorm"],
-    managment   : ["YouTrack"],
-    ideology    : ["Focus on skills, not languages", "Be persistent and learn", "Trying to solve problems without outside help"]
+    os           : ["MacOS", "Linux"],
+    editors      : ["WebStorm"],
+    managment    : ["YouTrack"],
+    ideologies   : ["Focus on skills, not languages", "Be persistent and learn", "Trying to solve problems without outside help"]
 };
 ```
 
