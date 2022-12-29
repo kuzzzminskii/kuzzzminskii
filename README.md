@@ -33,7 +33,7 @@ const artem = {
     age          : 25,
     country      : "Russia",
     code         : ["Node.js", "Javascript", "React", "Vue.js"],
-    about        : ["developer", "lead coder"],
+    about        : ["Developer", "Lead coder"],
     technologies : {
         backEnd  : ["Node.js", "Express"],
         frontEnd : ["JavaScript", "React", "Vue.js"],
