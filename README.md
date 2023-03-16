@@ -30,7 +30,7 @@
   
   ```javascript
 const artem = {
-    age          : 25,
+    age          : 26,
     country      : "Russia",
     code         : ["Node.js", "Javascript", "React", "Vue.js"],
     about        : ["Developer", "Lead coder"],
