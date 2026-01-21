@@ -49,12 +49,12 @@ const artem = {
     os           : ["MacOS", "Linux"],
     editors      : ["WebStorm", "VSCode"],
     management   : ["YouTrack", "Team Foundattion Server"],
-    devops       : ["Docker", "GitHub"],
+    devops       : ["Docker", "GitHub", "GitLab"],
     ideologies   : ["Focus on skills, not languages", "Be persistent and learn", "Trying to solve problems without outside help"]
 };
 ```
 
 <h3>Where to find me</h3>
 <p>
-<a href="https://t.me/kuzzzminskii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="mailto:kuzminskii97@mail.ru" target="_blank"><img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a>
+<a href="https://gitlab.com/kuzzzminskii" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white"/></a> <a href="https://t.me/kuzzzminskii" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Telegram-26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/></a> <a href="mailto:kuzminskii97@mail.ru" target="_blank"><img alt="Mail.Ru" src="https://img.shields.io/badge/Mail.Ru-005FF9.svg?&style=for-the-badge&logo=Mail.Ru&logoColor=white"/></a>
 </p>
